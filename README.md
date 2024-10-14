@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0027-remove-element) |
+| [0055-jump-game](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0075-sort-colors) |
 ## Two Pointers
 |  |
@@ -26,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0141-linked-list-cycle) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0055-jump-game) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
