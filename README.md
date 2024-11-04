@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0160-intersection-of-two-linked-lists) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0013-roman-to-integer) |
 | [0068-text-justification](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0068-text-justification) |
 | [0392-is-subsequence](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0392-is-subsequence) |
 ## Simulation
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0206-reverse-linked-list) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
