@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0135-candy) |
 | [0238-product-of-array-except-self](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0274-h-index) |
+| [3291-find-if-array-can-be-sorted](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/3291-find-if-array-can-be-sorted) |
 ## Two Pointers
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0075-sort-colors) |
 | [0274-h-index](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0274-h-index) |
+| [3291-find-if-array-can-be-sorted](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/3291-find-if-array-can-be-sorted) |
 ## Hash Table
 |  |
 | ------- |
@@ -109,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0013-roman-to-integer) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3291-find-if-array-can-be-sorted](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/3291-find-if-array-can-be-sorted) |
 <!---LeetCode Topics End-->
