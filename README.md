@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0068-text-justification) |
 | [0392-is-subsequence](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0392-is-subsequence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Simulation
 |  |
 | ------- |
