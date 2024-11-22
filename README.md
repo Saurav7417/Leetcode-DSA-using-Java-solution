@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0135-candy) |
 | [0238-product-of-array-except-self](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0274-h-index) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1940-maximum-xor-for-each-query](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/1940-maximum-xor-for-each-query) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0160-intersection-of-two-linked-lists) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -163,5 +165,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2343-count-unguarded-cells-in-the-grid) |
 <!---LeetCode Topics End-->
