@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0135-candy) |
 | [0238-product-of-array-except-self](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0274-h-index) |
+| [0787-sliding-puzzle](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1940-maximum-xor-for-each-query](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/1972-rotating-the-box) |
@@ -169,8 +170,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0787-sliding-puzzle](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1972-rotating-the-box](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2343-count-unguarded-cells-in-the-grid) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0787-sliding-puzzle](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0787-sliding-puzzle) |
 <!---LeetCode Topics End-->
