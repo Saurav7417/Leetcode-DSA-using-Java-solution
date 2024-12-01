@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0274-h-index) |
 | [0787-sliding-puzzle](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1940-maximum-xor-for-each-query](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2089-maximum-matrix-sum) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0908-middle-of-the-linked-list) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1972-rotating-the-box](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/1972-rotating-the-box) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0075-sort-colors) |
 | [0274-h-index](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0274-h-index) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/3291-find-if-array-can-be-sorted) |
@@ -77,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -155,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2699-count-the-number-of-fair-pairs) |
