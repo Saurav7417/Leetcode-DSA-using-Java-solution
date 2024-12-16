@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/3291-find-if-array-can-be-sorted) |
 | [3427-special-array-ii](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/3427-special-array-ii) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Counting Sort
 |  |
 | ------- |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0013-roman-to-integer) |
 | [2716-prime-subtraction-operation](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2716-prime-subtraction-operation) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2868-continuous-subarrays) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Shortest Path
 |  |
 | ------- |
