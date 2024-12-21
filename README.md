@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2201-valid-arrangement-of-pairs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [3058-maximum-number-of-k-divisible-components](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Binary Tree
 |  |
 | ------- |
