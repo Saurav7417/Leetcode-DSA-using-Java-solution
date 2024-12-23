@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0787-sliding-puzzle) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Graph
 |  |
 | ------- |
@@ -301,11 +302,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Binary Tree
 |  |
 | ------- |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Binary Indexed Tree
 |  |
 | ------- |
