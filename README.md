@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2232-adding-spaces-to-a-string](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2232-adding-spaces-to-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2414-move-pieces-to-obtain-a-string) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0238-product-of-array-except-self) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1940-maximum-xor-for-each-query](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/1940-maximum-xor-for-each-query) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2358-number-of-ways-to-split-array) |
 | [3427-special-array-ii](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/3427-special-array-ii) |
 ## Stack
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1940-maximum-xor-for-each-query](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/1940-maximum-xor-for-each-query) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/3291-find-if-array-can-be-sorted) |
 ## Trie
