@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2465-shifting-letters-ii](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2465-shifting-letters-ii) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2232-adding-spaces-to-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2465-shifting-letters-ii](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2465-shifting-letters-ii) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-shifting-letters-ii](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2465-shifting-letters-ii) |
 | [3427-special-array-ii](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/3427-special-array-ii) |
 ## Stack
 |  |
