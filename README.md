@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0787-sliding-puzzle) |
+| [0952-word-subsets](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/1063-best-sightseeing-pair) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0160-intersection-of-two-linked-lists) |
+| [0952-word-subsets](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0068-text-justification) |
 | [0392-is-subsequence](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0392-is-subsequence) |
+| [0952-word-subsets](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0952-word-subsets) |
 | [1524-string-matching-in-an-array](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
