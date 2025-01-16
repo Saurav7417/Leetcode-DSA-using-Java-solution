@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0068-text-justification) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0035-search-insert-position) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2164-two-best-non-overlapping-events](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2164-two-best-non-overlapping-events) |
