@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0787-sliding-puzzle) |
+| [0941-sort-array-by-parity](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0941-sort-array-by-parity) |
 | [0952-word-subsets](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/1063-best-sightseeing-pair) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0908-middle-of-the-linked-list) |
+| [0941-sort-array-by-parity](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0941-sort-array-by-parity) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1972-rotating-the-box](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/1972-rotating-the-box) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0075-sort-colors) |
 | [0274-h-index](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0274-h-index) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0780-max-chunks-to-make-sorted) |
+| [0941-sort-array-by-parity](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0941-sort-array-by-parity) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2164-two-best-non-overlapping-events](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2179-most-beautiful-item-for-each-query) |
