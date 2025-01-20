@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [1013-fibonacci-number](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/1013-fibonacci-number) |
 | [1025-minimum-cost-for-tickets](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/1063-best-sightseeing-pair) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0234-palindrome-linked-list) |
+| [1013-fibonacci-number](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/1013-fibonacci-number) |
 ## Math
 |  |
 | ------- |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0013-roman-to-integer) |
+| [1013-fibonacci-number](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/1013-fibonacci-number) |
 | [2716-prime-subtraction-operation](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2716-prime-subtraction-operation) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Bit Manipulation
@@ -409,4 +412,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
