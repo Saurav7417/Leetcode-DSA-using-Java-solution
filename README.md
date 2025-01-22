@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0042-trapping-rain-water) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0061-rotate-list) |
