@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0274-h-index) |
 | [0407-trapping-rain-water-ii](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0407-trapping-rain-water-ii) |
+| [0485-max-consecutive-ones](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0780-max-chunks-to-make-sorted) |
