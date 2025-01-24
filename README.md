@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0075-sort-colors) |
 | [0134-gas-station](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0135-candy) |
+| [0169-majority-element](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0268-missing-number) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0274-h-index) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0780-max-chunks-to-make-sorted) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0268-missing-number) |
 | [0952-word-subsets](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0169-majority-element) |
 | [0274-h-index](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0274-h-index) |
 | [1396-count-servers-that-communicate](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/1502-construct-k-palindrome-strings) |
@@ -446,4 +450,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/1396-count-servers-that-communicate) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
