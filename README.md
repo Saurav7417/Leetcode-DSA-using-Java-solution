@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0787-sliding-puzzle) |
+| [0932-monotonic-array](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0941-sort-array-by-parity) |
 | [0952-word-subsets](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/1025-minimum-cost-for-tickets) |
