@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0169-majority-element) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0055-jump-game) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
