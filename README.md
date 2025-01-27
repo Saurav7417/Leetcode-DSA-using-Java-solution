@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0787-sliding-puzzle) |
 | [1396-count-servers-that-communicate](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1558-course-schedule-iv](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/1558-course-schedule-iv) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1558-course-schedule-iv](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/1558-course-schedule-iv) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Heap (Priority Queue)
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1396-count-servers-that-communicate](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/1396-count-servers-that-communicate) |
+| [1558-course-schedule-iv](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/1558-course-schedule-iv) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2201-valid-arrangement-of-pairs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -462,4 +465,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0169-majority-element) |
+## Topological Sort
+|  |
+| ------- |
+| [1558-course-schedule-iv](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/1558-course-schedule-iv) |
 <!---LeetCode Topics End-->
