@@ -1,18 +1,13 @@
 class Solution {
     public int maxProfit(int[] prices) {
         int n = prices.length;
-        int max = 0; // No need for Integer.MIN_VALUE, as profit can't be negative
-        int minPrice = Integer.MAX_VALUE;
-
-        for (int i = 0; i < n; i++) {
-            if (prices[i] < minPrice) {
-                minPrice = prices[i]; // Update the minimum price
-            } else {
-                int diff = prices[i] - minPrice; // Calculate profit
-                max = Math.max(max, diff); // Update max profit
-            }
+        int mini = prices[0];
+        int profit = 0;
+        for(int i=1; i<n; i++){
+            int cost = prices[i] - mini;
+            profit = Math.max(profit,cost);
+            mini = Math.min(mini,prices[i]);
         }
-
-        return max;
+        return profit;
     }
 }
