@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2232-adding-spaces-to-a-string](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2232-adding-spaces-to-a-string) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2232-adding-spaces-to-a-string](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2232-adding-spaces-to-a-string) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0068-text-justification](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0068-text-justification) |
 | [2232-adding-spaces-to-a-string](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2232-adding-spaces-to-a-string) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
