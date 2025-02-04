@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0169-majority-element) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0160-intersection-of-two-linked-lists) |
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0128-longest-consecutive-sequence) |
 | [0684-redundant-connection](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/1396-count-servers-that-communicate) |
