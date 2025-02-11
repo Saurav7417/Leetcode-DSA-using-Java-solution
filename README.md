@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2232-adding-spaces-to-a-string) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0068-text-justification) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2232-adding-spaces-to-a-string](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0234-palindrome-linked-list) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Saurav7417/Leetcode-DSA-using-Java-solution/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
